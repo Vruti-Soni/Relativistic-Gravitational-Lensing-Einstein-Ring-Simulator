@@ -25,5 +25,4 @@ According to Albert Einstein's Theory of General Relativity, massive objects (su
 * **Magnification & Caustic Mapping:** Simulates localized brightness amplifications using Jacobian determinant calculations.
 
 ---
-Result
-EinsteinRing.png
+Result(https://github.com/Vruti-Soni/Relativistic-Gravitational-Lensing-Einstein-Ring-Simulator/blob/main/EinsteinRing.png)
